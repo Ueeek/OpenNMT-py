@@ -1,0 +1,6 @@
+train_src: ../data/train.en
+train_tgt: ../data/train.ja
+
+valid_src: ../data/valid.en
+valid_tgt: ../data/valid.ja
+save_data: preprocessed/en_ja
